@@ -2,7 +2,7 @@
 -- =========================================
 lvim.format_on_save = true
 lvim.leader = " "
-lvim.colorscheme = "tokyonight"
+lvim.colorscheme = "iceberg"
 
 vim.g.tokyonight_style = "night"
 
