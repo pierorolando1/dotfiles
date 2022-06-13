@@ -10,7 +10,7 @@ M.config = function()
         {
             "cocopon/iceberg.vim",
             config = function()
-                require("user.theme").icerberg()
+                -- require("user.theme").icerberg()
                 --     vim.cmd [[colorscheme iceberg]]
             end
         },
